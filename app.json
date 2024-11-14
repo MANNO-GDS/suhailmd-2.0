@@ -1,23 +1,23 @@
 {
-  "name": "suhail-whatsapp-bot@1.0.1",
-  "description": "I am Suhail-X Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
- "logo":"https://telegra.ph/file/9dcef2b49909742db8dbd.jpg",
+  "name": "Manno-whatsapp-bot@1.0.1",
+  "description": "I am Manno-md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
+ "logo":"https://i.ibb.co/7NJbnB3/lo75s-RTo4294.jpg",
  
-  "old__logo": "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
+  "old__logo": "https://github.com/MANNO-GDS/suhailmd-2.0/blob/main/lib/assets/suhail.jpg?raw=true",
+  "keywords": ["whatsappbot", "mannoMd", "manno Md bot", "manno-Md", "MannoMdWhatsaooBot", "mannoWaBot","mannoMD","Manno Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
   "__stack":"container",
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail-X",
+      "value": "SAMMI-TECH INFO",
       "required" :true
     },   
      
     "CAN_WELCOME": {
       "description": "put 'false' or 'true' to enable & disable WELCOME ",
-      "value": "true",
+      "value": "false",
       "required" :false
     },
      
@@ -29,7 +29,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "Suhail-X-Md"
+      "value": "『💌 𝙏𝙃𝙀-𝙈𝘼𝙉𝙉𝙊-𝙈𝘿 💌』"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -67,7 +67,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "923094029835"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -95,7 +95,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "MANNO-MD ♥️",
       "required": false 
     },
     "PACK_AUTHER": {
